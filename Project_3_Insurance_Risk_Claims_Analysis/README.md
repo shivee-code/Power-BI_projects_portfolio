@@ -7,7 +7,7 @@ This project demonstrates practical skills in data modeling, DAX calculations, P
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](exports/dashboard_screenshot.png)
+![Dashboard Preview](exports/dashboard_Screenshot.png)
 
 ---
 
