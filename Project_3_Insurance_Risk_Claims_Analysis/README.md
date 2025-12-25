@@ -12,7 +12,25 @@ This project demonstrates practical skills in data modeling, DAX calculations, P
 ---
 
 ## Project Structure
-
+Project_03_Insurance_Risk_Claims_Analysis/
+│
+├── data/
+│ └── raw/
+│ └── insurance_policies_data.xlsx
+│
+├── reports/
+│ └── Insurance_Risk_Claims_Analysis.pbix
+│
+├── exports/
+│ └── dashboard_screenshot.png
+│
+├── docs/
+│ ├── executive_summary.md
+│ ├── methodology.md
+│ ├── Business_Requirements.pdf
+│ └── Domain_Overview.pdf
+│
+└── README.md
 
 ---
 
