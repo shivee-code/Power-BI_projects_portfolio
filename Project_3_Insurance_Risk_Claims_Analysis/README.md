@@ -1,4 +1,4 @@
-# 🛡 Insurance Risk & Claims Analysis — Power BI Dashboard
+# Insurance Risk & Claims Analysis — Power BI Dashboard
 
 An end-to-end Power BI analytics project designed to analyze insurance policy and claims data, identify key risk factors, and uncover patterns influencing claim behavior and financial exposure.
 
@@ -6,17 +6,17 @@ This project demonstrates practical skills in data modeling, DAX calculations, P
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 ![Dashboard Preview](exports/dashboard_screenshot.png)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 To analyze insurance claims data and provide insights into:
 - Risk exposure across customer segments
@@ -25,7 +25,7 @@ To analyze insurance claims data and provide insights into:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - High claim concentration observed in urban and highly urban coverage zones.
 - Specific car makes contribute disproportionately to total claim value.
@@ -36,7 +36,7 @@ To analyze insurance claims data and provide insights into:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Power BI Desktop
 - Power Query (ETL & Data Transformation)
@@ -47,7 +47,7 @@ To analyze insurance claims data and provide insights into:
 
 ---
 
-## ▶ How to Use This Project
+## How to Use This Project
 
 1. Download the `.pbix` file from the `reports` folder.
 2. Open it using Power BI Desktop.
@@ -57,7 +57,7 @@ To analyze insurance claims data and provide insights into:
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - Insurance Analytics
 - Risk & Claims Analysis
@@ -68,7 +68,7 @@ To analyze insurance claims data and provide insights into:
 
 ---
 
-## 📌 Business Value
+## Business Value
 
 This dashboard enables insurance analysts, actuaries, and business stakeholders to:
 - Identify high-risk customer segments
@@ -78,7 +78,7 @@ This dashboard enables insurance analysts, actuaries, and business stakeholders 
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Predictive modeling for claim risk scoring
 - Integration with real-time claim feeds
