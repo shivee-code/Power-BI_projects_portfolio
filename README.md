@@ -16,7 +16,7 @@ A curated collection of real-world Power BI dashboard projects focused on busine
 `└── Screenshot.pdf`<br>
 
 
-## Project 3: Insurance Risk & Claims Analysis
+## [Project 3: Insurance Risk & Claims Analysis](https://github.com/shivee-code/Power-BI_projects_portfolio/tree/main/Project_3_Insurance_Risk_Claims_Analysis)
 
 An end-to-end Power BI project focused on analyzing insurance policy data to assess risk exposure, claims behavior, and customer demographics. The dashboard provides insights into claim frequency, claim amounts, vehicle usage, coverage zones, and customer profiles to support risk management and underwriting decisions.
 
