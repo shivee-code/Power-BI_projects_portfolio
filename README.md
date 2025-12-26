@@ -14,3 +14,18 @@ A curated collection of real-world Power BI dashboard projects focused on busine
 `├── ECOMM DATA.xlsx`<br>
 `├── README.md`<br>
 `└── Screenshot.pdf`<br>
+
+
+## Project 3: Insurance Risk & Claims Analysis
+
+An end-to-end Power BI project focused on analyzing insurance policy data to assess risk exposure, claims behavior, and customer demographics. The dashboard provides insights into claim frequency, claim amounts, vehicle usage, coverage zones, and customer profiles to support risk management and underwriting decisions.
+
+Key Highlights:
+- Analysis of total policies, claim amounts, claim frequency, and average claim value
+- Claim distribution by vehicle usage, car make, car year, and coverage zone
+- Customer risk analysis by age group, education level, marital status, and gender
+- Trend analysis of claims over time for risk monitoring
+- Interactive slicers and KPI-driven visuals for decision support
+
+Tools & Skills:
+Power BI, Power Query, Data Modeling, DAX Measures, KPI Design, Interactive Dashboards, Business Intelligence
