@@ -27,14 +27,15 @@ An end-to-end <b>Power BI analytics project</b> designed to evaluate e-commerce 
 
 ## [Project-3: Insurance Risk & Claims Analysis](https://github.com/shivee-code/Power-BI_projects_portfolio/tree/main/Project_3_Insurance_Risk_Claims_Analysis)
 
-An end-to-end Power BI project focused on analyzing insurance policy data to assess risk exposure, claims behavior, and customer demographics. The dashboard provides insights into claim frequency, claim amounts, vehicle usage, coverage zones, and customer profiles to support risk management and underwriting decisions.
+An end-to-end <b>Power BI analytics project</b> focused on analyzing insurance policy and claims data to assess risk exposure, identify claim behavior patterns, and evaluate customer and vehicle-related risk factors. The dashboard supports underwriting, pricing, and risk management decisions through KPI-driven and interactive analytics.
 
-Key Highlights:
-- Analysis of total policies, claim amounts, claim frequency, and average claim value
-- Claim distribution by vehicle usage, car make, car year, and coverage zone
-- Customer risk analysis by age group, education level, marital status, and gender
-- Trend analysis of claims over time for risk monitoring
-- Interactive slicers and KPI-driven visuals for decision support
+<b>Key Highlights:</b>
+- Developed KPI-driven dashboards to analyze <b>total policies, claim amounts, claim frequency, and average claim value</b>
+- Performed <b>claims trend analysis over time</b> to monitor risk exposure and cost patterns
+- Conducted <b>vehicle-level analysis</b> by usage type, car make, and car year to identify high-risk categories
+- Delivered <b>coverage zone and geographic insights</b> to assess regional risk concentration
+- Executed <b>customer risk profiling</b> based on age group, education level, marital status, and gender
+- Enabled interactive exploration using <b>slicers and dynamic visuals</b> for decision support
 
-Tools & Skills:
-Power BI, Power Query, Data Modeling, DAX Measures, KPI Design, Interactive Dashboards, Business Intelligence
+<b>Tools & Skills:</b>
+`Power BI`, `Power Query`, `Data Cleaning & Transformation`, `Data Modeling`, `DAX Measures`, `KPI Design`, `Time-Series Analysis`, `Risk & Claims Analytics`, `Interactive Dashboards`, `Business Intelligence`
