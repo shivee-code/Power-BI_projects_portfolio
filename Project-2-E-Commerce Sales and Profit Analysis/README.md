@@ -9,6 +9,15 @@ This Power BI project analyzes sales, profit, and customer data from an e-commer
 
 ---
 
+## Project Structure<br>
+Project-2-E-Commerce Sales and Profit Analysis<br>
+`├── E-Commerce Sales and Profit Analysis.pbix`<br>
+`├── ECOMM DATA.xlsx`<br>
+`├── README.md`<br>
+`└── Screenshot_page-0001.jpg`<br>
+
+---
+
 ## Objective
 
 To analyze e-commerce performance using interactive dashboards that help:
