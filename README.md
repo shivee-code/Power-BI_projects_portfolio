@@ -39,3 +39,9 @@ An end-to-end <b>Power BI analytics project</b> focused on analyzing insurance p
 
 <b>Tools & Skills:</b>
 `Power BI`, `Power Query`, `Data Cleaning & Transformation`, `Data Modeling`, `DAX Measures`, `KPI Design`, `Time-Series Analysis`, `Risk & Claims Analytics`, `Interactive Dashboards`, `Business Intelligence`
+
+---
+
+## Connect With Me
+**Role:** Data Analyst / BI Developer  
+**Contact:** [Shivam Kumar](https://www.linkedin.com/in/shivam-kumar-2a0371246/)
