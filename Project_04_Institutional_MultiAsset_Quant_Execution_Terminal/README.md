@@ -21,7 +21,7 @@
 ---
 
 ### 🔹 Algorithmic Alpha Radar
-![Algorithmic Alpha Radar](exports/3_Algorithmic_Alpha_Radar.png)
+![Algorithmic Alpha Radar](exports/3_Algorithmic_Alpha_Radar.jpg)
 
 ---
 
