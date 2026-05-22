@@ -11,7 +11,7 @@
 ## 📸 Dashboard Preview
 
 ### 🔹 Macro Asset Console
-![Macro Asset Console](exports/1_Macro_Asset_Console.png)
+![Macro Asset Console](Project_04_Institutional_MultiAsset_Quant_Execution_Terminal/exports/1_Macro_Asset_Console.jpg)
 
 ---
 
