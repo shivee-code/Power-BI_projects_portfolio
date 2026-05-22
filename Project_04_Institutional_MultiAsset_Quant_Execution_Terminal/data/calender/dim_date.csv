@@ -1,0 +1,13 @@
+﻿Asset_ID,Asset_Name,Asset_Type,Risk_Category
+TCS,Tata Consultancy Services,Stock,Low Beta
+INFY,Infosys,Stock,Low Beta
+RELIANCE,Reliance Industries,Stock,Medium Beta
+HDFCBANK,HDFC Bank,Stock,Medium Beta
+ICICIBANK,ICICI Bank,Stock,Medium Beta
+SBIN,State Bank of India,Stock,High Beta
+TATAMOTORS,Tata Motors,Stock,High Beta
+ITC,ITC Limited,Stock,Low Beta
+NSEI,Nifty 50 Index,Benchmark,Market
+BSESN,Sensex Index,Benchmark,Market
+GC,Gold Commodity,Commodity,Safe Haven
+INR,USD/INR Forex,Forex,Currency Asset

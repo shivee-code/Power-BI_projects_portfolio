@@ -1,47 +1,143 @@
-# Power BI Projects Portfolio
+# 📊 Power BI & Data Analytics Portfolio
 
-A curated collection of real-world Power BI dashboard projects focused on business intelligence, data modeling, DAX calculations, KPI tracking, and interactive data visualization. These projects demonstrate practical skills used in Data Analyst and Business Intelligence roles, including data preparation, analytical reporting, and stakeholder-focused insights.<br>
+A curated portfolio of end-to-end Business Intelligence, Data Analytics, and Quantitative Reporting projects built using Power BI, Python, SQL-oriented data modeling concepts, DAX, and ETL workflows.
 
-## Project-1-Airline Data Management and Analysis <br>
-`├── Airline Data Management and Analysis.pbix`<br> 
-`├── Airline Data Management and Analysis.pdf`<br>
-`└── README.md`<br>
+This repository demonstrates practical experience in:
 
-
-
-## [Project-2: E-Commerce Sales and Profit Analysis](https://github.com/shivee-code/Power-BI_projects_portfolio/tree/main/Project-2-E-Commerce%20Sales%20and%20Profit%20Analysis)
-
-An end-to-end <b>Power BI analytics project</b> designed to evaluate e-commerce business performance by analyzing sales, profitability, customer behavior, and regional trends. The dashboard enables data-driven decision-making through KPI tracking, trend analysis, and interactive visual exploration.
-
-<b>Key Highlights:</b>
-- Built KPI-driven dashboards to monitor <b>sales, profit, profit margin, and order volume</b>
-- Performed <b>time-series analysis</b> to identify monthly sales and profit trends
-- Conducted <b>regional and geographic analysis</b> using interactive maps for state-level insights
-- Analyzed <b>segment-wise and category-wise profitability</b> to assess business performance
-- Delivered <b>customer-level analytics</b> to identify high-value customers and contribution to revenue
-- Implemented <b>product-level order analysis</b> to highlight top-performing products
-
-<b>Tools & Skills:</b>
-`Power BI`, `Power Query`, `Data Cleaning & Transformation`, `Data Modeling`, `DAX Measures`, `KPI Design`, `Time-Series Analysis`, `Geographic Analysis`, `Interactive Dashboards`, `Business Intelligence`
-
-
-## [Project-3: Insurance Risk & Claims Analysis](https://github.com/shivee-code/Power-BI_projects_portfolio/tree/main/Project_3_Insurance_Risk_Claims_Analysis)
-
-An end-to-end <b>Power BI analytics project</b> focused on analyzing insurance policy and claims data to assess risk exposure, identify claim behavior patterns, and evaluate customer and vehicle-related risk factors. The dashboard supports underwriting, pricing, and risk management decisions through KPI-driven and interactive analytics.
-
-<b>Key Highlights:</b>
-- Developed KPI-driven dashboards to analyze <b>total policies, claim amounts, claim frequency, and average claim value</b>
-- Performed <b>claims trend analysis over time</b> to monitor risk exposure and cost patterns
-- Conducted <b>vehicle-level analysis</b> by usage type, car make, and car year to identify high-risk categories
-- Delivered <b>coverage zone and geographic insights</b> to assess regional risk concentration
-- Executed <b>customer risk profiling</b> based on age group, education level, marital status, and gender
-- Enabled interactive exploration using <b>slicers and dynamic visuals</b> for decision support
-
-<b>Tools & Skills:</b>
-`Power BI`, `Power Query`, `Data Cleaning & Transformation`, `Data Modeling`, `DAX Measures`, `KPI Design`, `Time-Series Analysis`, `Risk & Claims Analytics`, `Interactive Dashboards`, `Business Intelligence`
+* Interactive Dashboard Development
+* KPI & Business Performance Reporting
+* Financial & Risk Analytics
+* Quantitative Data Modeling
+* Power Query ETL Pipelines
+* DAX Measure Engineering
+* Time-Series & Trend Analysis
+* Enterprise BI Visualization Design
 
 ---
 
-## Connect With Me
-**Role:** Data Analyst / BI Developer  
-**Contact:** [Shivam Kumar](https://www.linkedin.com/in/shivam-kumar-2a0371246/)
+# 🚀 Featured Projects
+
+---
+
+## 🔹 Project 1 — Airline Data Management & Analysis
+
+📁 Folder: `Project_1_Airline_Data_Management_Analysis`
+
+An analytical Power BI reporting solution focused on airline operational performance, passenger trends, and transportation analytics. The dashboard enables interactive monitoring of airline activity, travel behavior, and operational KPIs.
+
+### Key Highlights
+
+* Airline operational KPI reporting
+* Passenger and route-level analysis
+* Trend monitoring and visual storytelling
+* Interactive dashboard navigation
+* Business-focused reporting structure
+
+### Tools & Skills
+
+`Power BI` • `Power Query` • `DAX` • `Data Cleaning` • `Interactive Dashboards`
+
+---
+
+## 🔹 Project 2 — E-Commerce Sales & Profit Analysis
+
+📁 Folder: `Project-2-E-Commerce Sales and Profit Analysis`
+
+An end-to-end Power BI analytics solution designed to evaluate e-commerce business performance through sales tracking, profitability analysis, customer insights, and regional trend monitoring.
+
+### Key Highlights
+
+* KPI-driven sales and profit dashboards
+* Customer contribution analysis
+* Product-level performance tracking
+* Geographic and regional sales analysis
+* Time-series business trend reporting
+
+### Tools & Skills
+
+`Power BI` • `Power Query` • `DAX` • `Data Modeling` • `KPI Design` • `Business Intelligence`
+
+🔗 Repository Link:
+https://github.com/shivee-code/Power-BI_projects_portfolio/tree/main/Project-2-E-Commerce%20Sales%20and%20Profit%20Analysis
+
+---
+
+## 🔹 Project 3 — Insurance Risk & Claims Analysis
+
+📁 Folder: `Project_3_Insurance_Risk_Claims_Analysis`
+
+A business intelligence and risk analytics dashboard focused on insurance claims behavior, policy exposure, and customer risk segmentation to support underwriting and operational decision-making.
+
+### Key Highlights
+
+* Claims frequency and severity analysis
+* Customer risk segmentation
+* Vehicle and policy risk assessment
+* Geographic claims concentration analysis
+* Interactive underwriting insights
+
+### Tools & Skills
+
+`Power BI` • `Power Query` • `DAX` • `Risk Analytics` • `Data Modeling` • `Interactive Reporting`
+
+🔗 Repository Link:
+https://github.com/shivee-code/Power-BI_projects_portfolio/tree/main/Project_3_Insurance_Risk_Claims_Analysis
+
+---
+
+## 🔹 Project 4 — Institutional Multi-Asset Quant Execution Terminal
+
+📁 Folder: `Institutional_MultiAsset_Quant_Execution_Terminal`
+
+An enterprise-grade quantitative analytics platform engineered for time-series market analysis, portfolio alpha modeling, and systematic financial risk evaluation across 56,000+ hourly market records.
+
+### Key Highlights
+
+* Multi-asset financial analytics platform
+* Quantitative risk & volatility modeling
+* Star schema financial data modeling
+* Python-powered market data ingestion pipelines
+* Advanced DAX-based quantitative calculations
+* Institutional-style Bloomberg-inspired dashboard design
+
+### Tools & Skills
+
+`Power BI` • `Python` • `Pandas` • `yFinance API` • `DAX` • `Power Query` • `Quantitative Analytics`
+
+🔗 Repository Link:
+https://github.com/shivee-code/Power-BI_projects_portfolio/tree/main/Institutional_MultiAsset_Quant_Execution_Terminal
+
+---
+
+# 🛠️ Core Technical Skills Demonstrated
+
+| Domain                | Skills                                             |
+| --------------------- | -------------------------------------------------- |
+| Business Intelligence | Power BI, Dashboard Design, KPI Reporting          |
+| Data Engineering      | ETL Pipelines, Data Cleaning, Data Transformation  |
+| Analytics             | Trend Analysis, Financial Analytics, Risk Modeling |
+| Data Modeling         | Star Schema, Relational Modeling                   |
+| Programming           | Python, Pandas                                     |
+| Reporting             | Interactive Visualization, Executive Reporting     |
+| Query Languages       | DAX, Power Query (M Language)                      |
+
+---
+
+# 👨‍💻 About Me
+
+Shivam Kumar
+
+Aspiring Data Analyst & BI Developer focused on:
+
+* Business Intelligence & Dashboard Engineering
+* Financial & Quantitative Analytics
+* Data Visualization & Reporting
+* Python Data Automation
+* Enterprise Analytics Solutions
+
+---
+
+# 🔗 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/shivam-kumar-2a0371246/
+* GitHub: https://github.com/shivee-code
