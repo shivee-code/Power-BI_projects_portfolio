@@ -4,7 +4,7 @@
 ![DAX](https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge)
 
 # 🏛️ Institutional-Grade Multi-Asset Algorithmic Execution & Quantitative Performance Terminal
-> An enterprise-grade, high-granularity 4-Page Analytics Application Suite executing deep time-series parsing, portfolio alpha modeling, and systematic market volatility risk management on 56,000+ hourly market transactional data matrices.
+> An enterprise-grade, high-granularity 4-page analytics application suite engineered for deep time-series parsing, portfolio alpha modeling, and systematic market volatility risk management across 56,000+ hourly market data records.
 
 ---
 
@@ -30,12 +30,25 @@
 
 ---
 
+## ⚙️ Technology Stack
+
+| Layer | Technologies |
+|---|---|
+| Data Extraction | Python, yFinance API |
+| Data Processing | Pandas, Power Query (M Language) |
+| Data Modeling | Star Schema, Relational Modeling |
+| Analytics Engine | DAX Measures |
+| Visualization | Microsoft Power BI |
+| Asset Coverage | Equities, Benchmarks, Forex, Commodities |
+
+---
+
 ## 📂 1. Repository Layout Architecture & File Matrix
 
 To ensure strict compliance with professional engineering standards, all code modules, local binary dataset matrices, and analytical reports are distributed across the following isolated structural hierarchy:
 
 ```text
-Project_04_Algorithmic_Portfolio_Quant_Terminal/
+Project_4_Institutional_MultiAsset_Quant_Execution_Terminal/ 
 │
 ├── data/
 │   ├── raw/
@@ -66,7 +79,11 @@ Project_04_Algorithmic_Portfolio_Quant_Terminal/
 │   ├── executive_summary.md                 # Multi-asset portfolio alpha capture brief
 │   └── methodology.md                       # Rolling averages and mathematical covariance logic
 │
-└── README.md                                # Complete system documentation root file
+├── .gitignore
+│
+├── README.md                                # Complete system documentation root file
+│ 
+└── requirements.txt                         # Python dependency packages
 ```
 
 ---
@@ -93,13 +110,13 @@ The platform pipeline architecture executes across four distinct structural phas
 ```
 
 ### 🔹 Phase 1: Python Extraction & Orchestrated API Ingestion
-A localized orchestration script (`source_code/Ingestion_Orchestrator_Engine.py`) interfaces programmatically with the Yahoo Finance API wrapper layer. The module bypasses generic flat manual file logs by dynamically mapping historical pricing variables at 1-hour interval increments over a strict 729-day rolling lookback horizon window. It simultaneously generates automated reference lookup metadata arrays (`Dim_Assets.csv`) to map asset types and risk classifications uniformly.
+A localized orchestration script (`source_code/python_ingestion_engine/extract_market_data.py`) interfaces programmatically with the Yahoo Finance API wrapper layer. The module bypasses generic flat manual file logs by dynamically mapping historical pricing variables at 1-hour interval increments over a strict 729-day rolling lookback horizon window. It simultaneously generates automated reference lookup metadata arrays (`Dim_Assets.csv`) to map asset types and risk classifications uniformly.
 
 ### 🔹 Phase 2: Power Query Data Sanitization & Hard-Casting
 The raw database files are funneled through a high-performance **M-Language ETL Casting Engine** (`source_code/PowerQuery_M_Casting_Engine.m`). The custom pipeline intercepts parsing breaks by running robust row-level conversion syntax (`try Value.FromText(_) otherwise null`). It strips off tracking marketplace suffixes (`.NS`, `^`, `=F`, `=X`), truncates dates to absolute 10-character scalar strings, drops empty rows, and outputs a clean database schema to system memory.
 
-### 🔹 Phase 3: Dimensional Data Modeling & Waterfall Topology
-To guarantee sub-second visual rendering speeds under heavy analytical loads, a rigid downstream **Star Schema Waterfall Topology** was modeled. All heavy bidirectional cross-filtering evaluation loops were completely deprecated to eliminate circular calculation lag. Primary composite connections are locked as single-direction paths (`1:*`), forcing lookup vectors (`Dim_Assets` and `Dim_Date`) to filter down to the centralized operational transactions table (`Fact_Market_Prices`).
+### 🔹 Phase 3: Star Schema Data Modeling
+To guarantee sub-second visual rendering speeds under heavy analytical loads, a robust downstream **Star Schema data model** was implemented. All heavy bidirectional cross-filtering evaluation loops were completely deprecated to eliminate circular calculation lag. Primary composite connections are locked as single-direction paths (`1:*`), forcing lookup vectors (`Dim_Assets` and `Dim_Date`) to filter down to the centralized operational transactions table (`Fact_Market_Prices`).
 
 ### 🔹 Phase 4: Symmetrical Trading Desk Workspace Deployment
 The data cache layer is rendered inside a dark-themed visual application space mimicking modern institutional Bloomberg and Reuters desktops. Every asset card component is fixed to exact canvas grid coordinates (X, Y, Height, Width measurements) with an integrated top-aligned **Multi-Page Native Button Navigation Array Bar** to route analytical views smoothly with zero space distortion.
@@ -129,7 +146,7 @@ Rather than utilizing slow, pre-calculated calculated data fields that expand fi
 
 ---
 
-## 🖥️ 5. Deep-Thinking 4-Page Interface Display Configurations
+## 🖥️ 5. 4-Page Interface & Dashboard Design
 
 The entire desktop platform shell incorporates **Translucent Slate Effects Elements Backgrounds (`#10162D`)** framed against a strict **Midnight Dark Sheet Base Canvas (`#070B19`)** with consistent **8px rounded visual frame borders** and **Subtle Dotted Gridlines (`#1A223D`)** to support complete readability without visual cluttering.
 
@@ -184,8 +201,52 @@ The entire desktop platform shell incorporates **Translucent Slate Effects Eleme
 
 ---
 
+## 📦 Installation & Environment Setup
+
+Clone the repository locally:
+
+```bash
+git clone https://github.com/shivee-code/Institutional_MultiAsset_Quant_Execution_Terminal.git
+```
+
+Install required Python dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Execute ingestion scripts sequentially:
+
+```bash
+python source_code/python_ingestion_engine/create_dim_assets.py
+python source_code/python_ingestion_engine/extract_market_data.py
+python source_code/python_ingestion_engine/fallback_asset_loader.py
+```
+
+After generating the datasets, open the Power BI report file:
+
+```text
+reports/Institutional_MultiAsset_Quant_Execution_Terminal.pbix
+```
+
+---
+
 ## 🔮 9. Future System Enhancements
 
 - **Machine Learning Asset Forecasting:** Deploying automated forecasting algorithms inside Azure ML to render 30-day forward-looking price expectations.
 - **Real-Time Data Streaming Hubs:** Migrating local folder ETL pipelines into a live event stream setup leveraging Microsoft Fabric and Apache Kafka.
 - **Markowitz Efficient Frontier Plotting:** Developing a dynamic mean-variance scatter radar chart to calculate and surface the maximum Sharpe Ratio boundary lines automatically.
+
+---
+
+## 👨‍💻 Author
+
+Shivam Kumar
+
+Aspiring Data Analyst & Quantitative Analytics Developer focused on:
+
+- Financial Data Analytics
+- Power BI Dashboard Engineering
+- Quantitative Risk Modeling
+- Python Data Automation
+- Enterprise Data Visualization
