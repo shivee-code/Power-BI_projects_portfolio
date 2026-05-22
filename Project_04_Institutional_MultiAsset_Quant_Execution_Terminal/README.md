@@ -26,7 +26,7 @@
 ---
 
 ### 🔹 Macro Hedging Suite
-![Macro Hedging Suite](exports/4_Macro_Hedging_Suite.png)
+![Macro Hedging Suite](exports/4_Macro_Hedging_Suite.jpg)
 
 ---
 
