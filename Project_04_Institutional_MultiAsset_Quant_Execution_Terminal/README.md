@@ -16,7 +16,7 @@
 ---
 
 ### 🔹 Risk Deep Dive Engine
-![Risk Deep Dive](exports/2_Risk_Deep_Dive_Engine.png)
+![Risk Deep Dive](exports/2_Risk_Deep_Dive_Engine.jpg)
 
 ---
 
