@@ -3,12 +3,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![DAX](https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge)
 
-# 🏛️ Institutional-Grade Multi-Asset Algorithmic Execution & Quantitative Performance Terminal
+# Institutional-Grade Multi-Asset Algorithmic Execution & Quantitative Performance Terminal
 > An enterprise-grade, high-granularity 4-page analytics application suite engineered for deep time-series parsing, portfolio alpha modeling, and systematic market volatility risk management across 56,000+ hourly market data records.
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### 🔹 Macro Asset Console
 ![Macro Asset Console](exports/1_Macro_Asset_Console.jpg)
@@ -88,7 +88,7 @@ Project_4_Institutional_MultiAsset_Quant_Execution_Terminal/
 
 ---
 
-## 🎯 2. System Challenge & Technical Core Problem Statement
+## 2. System Challenge & Technical Core Problem Statement
 
 Traditional corporate and retail business intelligence solutions historically evaluate performance on delayed end-of-day (EOD) daily closes. This delayed analysis completely flattens intraday volatility, leaving portfolio tracking engines blind to high-frequency drawdown traps, systemic capital erosion, and localized market regime shifts.
 
@@ -100,7 +100,7 @@ To capture actionable risk and momentum markers, this terminal targets high-dens
 
 ---
 
-## 🏗️ 3. Step-by-Step Data Engineering Ingestion & Production ETL Workflow
+## 3. Step-by-Step Data Engineering Ingestion & Production ETL Workflow
 
 The platform pipeline architecture executes across four distinct structural phases to convert unstable, raw asset data points into highly optimized cached dashboard vectors:
 
@@ -123,7 +123,7 @@ The data cache layer is rendered inside a dark-themed visual application space m
 
 ---
 
-## 🧮 4. Advanced Quantitative Financial Engineering (DAX Formulation Matrix)
+## 4. Advanced Quantitative Financial Engineering (DAX Formulation Matrix)
 
 Rather than utilizing slow, pre-calculated calculated data fields that expand file storage sizes, all structural financial indicators run purely on highly responsive variable structures inside an isolated metrics table wrapper (`_Quantitative_Engine`):
 
@@ -146,33 +146,33 @@ Rather than utilizing slow, pre-calculated calculated data fields that expand fi
 
 ---
 
-## 🖥️ 5. 4-Page Interface & Dashboard Design
+## 5. 4-Page Interface & Dashboard Design
 
 The entire desktop platform shell incorporates **Translucent Slate Effects Elements Backgrounds (`#10162D`)** framed against a strict **Midnight Dark Sheet Base Canvas (`#070B19`)** with consistent **8px rounded visual frame borders** and **Subtle Dotted Gridlines (`#1A223D`)** to support complete readability without visual cluttering.
 
-### 📱 Page 1: Macro Asset Console (Capital Allocation Screen)
+### Page 1: Macro Asset Console (Capital Allocation Screen)
 - **Problem Mapped:** Standard business cards look loose and clip text data fields.
 - **Symmetry Layout Fix:** Deployed explicit positioning boundaries (`Matrix Width: 550px`, `Area Chart Width: 580px`) matching perfectly to the lower 4-Column scorecard KPI ribbon container row (`X:24, Y:560`).
 - **Visual Enhancement:** Infused custom horizontal neon cyan data bars (`#00FFCC`) inside the main volume metrics grid cell layers alongside a landscape volumetric area chart to track asset class density.
 
-### 📱 Page 2: Risk Deep-Dive Engine (Statistical Variance Screen)
+### Page 2: Risk Deep-Dive Engine (Statistical Variance Screen)
 - **Problem Mapped:** Traditional column tracking layouts display risk parameters in simple flat lines, losing extreme outlier insights.
 - **Symmetry Layout Fix:** Cross-plots asset standard deviations against net historical growth ratios on a Scatter Quadrant chart to isolate high-alpha performers from high-risk anchors.
 - **Visual Enhancement:** Paired with vertical drawdown risk exposure bars tinted in **Cyber Neon Red (`#FF0055`)** to flag massive peak-to-trough capital drops during flash liquidations.
 
-### 📱 Page 3: Algorithmic Alpha Radar (Technical Crossover Desk)
+### Page 3: Algorithmic Alpha Radar (Technical Crossover Desk)
 - **Problem Mapped:** High-frequency lines overlap and blur chart lines when date timelines roll up.
 - **Symmetry Layout Fix:** Mapped a multi-line confluence engine displaying 3 trend directions simultaneously (`Market Close Trace = Solid White`, `Fast Moving SMA 50 = Neon Teal`, `Long-Term Support Boundary SMA 200 = Cyber Red`).
 - **Visual Enhancement:** Positions a compact execution matrix directly adjacent to a responsive speedometer Gauge visual chart utilizing dual neon properties (`Fill Color = #00FFCC`, `Target Threshold Pin Marker = #FF0055`) to measure immediate asset trend deviations.
 
-### 📱 Page 4: Macro Hedging Suite (Regime Switching Console)
+### Page 4: Macro Hedging Suite (Regime Switching Console)
 - **Problem Mapped:** Donut category tags clip labels and overlap on dark backgrounds when slices are small.
 - **Symmetry Layout Fix:** Deployed a compact asset weight ring with legends toggled completely **OFF**, running crisp **Inside Slices Text Elements Formatting** (`Category, percent of total`) using highly contrasting palettes (`Stocks = Neon Teal`, `Benchmarks = Royal Blue`, `Commodities = Cyber Gold`).
 - **Visual Enhancement:** Integrated a lower master matrix terminal tracking automated conditional status strings to execute swift risk-hedging plays.
 
 ---
 
-## 🎯 6. Real-World Analytical Findings & System Discoveries
+## 6. Real-World Analytical Findings & System Discoveries
 
 - **Transactional Liquidity Concentration:** Cross-sectional liquidity bars establish that portfolio transaction density remains heavily stacked within the Equities segment (**91.01% macro allocation**), highlighting that broad equity index moves heavily drive portfolio equity risk.
 - **Systematic Volatility Multipliers:** Standalone standard deviation evaluation indicates that while prominent banking securities (`HDFCBANK`, `ICICIBANK`) present lower standalone variance index scores when viewed in complete isolation, their historical time-series covariance trends track tightly with the Nifty 50 index benchmark. This synchronicity anchors their dynamic systematic Beta outputs close to **1.00**, proving they function as core index trackers.
@@ -181,7 +181,7 @@ The entire desktop platform shell incorporates **Translucent Slate Effects Eleme
 
 ---
 
-## 🛠️ 7. Core Technical Skillsets Mapped
+## 7. Core Technical Skillsets Mapped
 
 - **Quantitative Finance Analysis** (Asset Beta Indexing, Covariance Tracking, and Drawdown Valuation Models)
 - **Large-Scale Data Engineering** (Python Automated API Data Extraction and Ingestion Frameworks)
@@ -192,7 +192,7 @@ The entire desktop platform shell incorporates **Translucent Slate Effects Eleme
 
 ---
 
-## 🚀 8. Operational Deployment Guide
+## 8. Operational Deployment Guide
 
 1. Ensure the directory files route cleanly to local paths `C:/ExecutionEngine/Data/Fact_Market_Prices` or update the parent folder parameter inside the Power Query compiler engine.
 2. Launch `reports/Institutional_MultiAsset_Quant_Execution_Terminal.pbix` utilizing Microsoft Power BI Desktop (May 2026 release or later recommended for full navigation button stability).
@@ -201,7 +201,7 @@ The entire desktop platform shell incorporates **Translucent Slate Effects Eleme
 
 ---
 
-## 📦 Installation & Environment Setup
+## Installation & Environment Setup
 
 Clone the repository locally:
 
@@ -231,7 +231,7 @@ reports/Institutional_MultiAsset_Quant_Execution_Terminal.pbix
 
 ---
 
-## 🔮 9. Future System Enhancements
+## 9. Future System Enhancements
 
 - **Machine Learning Asset Forecasting:** Deploying automated forecasting algorithms inside Azure ML to render 30-day forward-looking price expectations.
 - **Real-Time Data Streaming Hubs:** Migrating local folder ETL pipelines into a live event stream setup leveraging Microsoft Fabric and Apache Kafka.
