@@ -5,7 +5,7 @@ This Power BI project analyzes sales, profit, and customer data from an e-commer
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](https://github.com/shivee-code/Power-BI_projects_portfolio/blob/main/Project-2-E-Commerce%20Sales%20and%20Profit%20Analysis/Screenshot_page-0001.jpg)
+![Dashboard Preview](https://github.com/shivee-code/Power-BI_projects_portfolio/blob/main/Project_2_E_Commerce_Sales_and_Profit_Analysis/Screenshot.pdf)
 
 ---
 
