@@ -200,7 +200,7 @@ Aspiring Data Analyst & BI Developer focused on:
 [shiveecode](https://github.com/shivee-code)
 
 **HackerRank:**  
-[Shivam Kumar(https://www.hackerrank.com/profile/kshivamar)
+[Shivam Kumar](https://www.hackerrank.com/profile/kshivamar)
 
 
 ---
