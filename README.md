@@ -1,4 +1,4 @@
-# 📊 Power BI & Data Analytics Portfolio
+# Power BI & Data Analytics Portfolio
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow)
 ![Analytics](https://img.shields.io/badge/Data%20Analytics-Interactive%20Dashboards-blue)
@@ -9,7 +9,7 @@ A curated collection of **end-to-end Business Intelligence, Data Analytics, and 
 
 ---
 
-# About This Portfolio
+## About This Portfolio
 
 This portfolio demonstrates practical experience in designing interactive dashboards, building KPI-driven reporting systems, developing ETL workflows, and performing financial & operational analytics using modern Business Intelligence tools.
 
@@ -19,7 +19,7 @@ Each project follows a structured analytics workflow — from data cleaning and 
 
 ---
 
-# Projects Overview
+## Projects Overview
 
 | # | Project | Domain | Analytics Type | Key Technologies | Core Focus |
 |---|---------|--------|----------------|------------------|-------------|
@@ -30,11 +30,9 @@ Each project follows a structured analytics workflow — from data cleaning and 
 
 ---
 
-# Project Details
+## Project Details
 
-## Project 01 — Airline Data Management & Analysis
-
-📁 Folder: `Project_1_Airline_Data_Management_Analysis`
+### Project 01 — Airline Data Management & Analysis
 
 **Business Problem:** Analyze airline operational performance, passenger trends, and transportation activity to support business monitoring and operational reporting.
 
@@ -52,11 +50,11 @@ Each project follows a structured analytics workflow — from data cleaning and 
 
 Power BI · Power Query · DAX · Data Cleaning · Interactive Dashboards
 
+📁 [View Project](Project_1_Airline_Data_Management_and_Analysis)
+
 ---
 
-## Project 02 — E-Commerce Sales & Profit Analysis
-
-📁 Folder: `Project-2-E-Commerce Sales and Profit Analysis`
+### Project 02 — E-Commerce Sales & Profit Analysis
 
 **Business Problem:** Evaluate e-commerce business performance through sales tracking, profitability analysis, customer insights, and regional trend monitoring.
 
@@ -74,14 +72,11 @@ Power BI · Power Query · DAX · Data Cleaning · Interactive Dashboards
 
 Power BI · Power Query · DAX · Data Modeling · KPI Design · Business Intelligence
 
-🔗 Repository Link:  
-https://github.com/shivee-code/Power-BI_projects_portfolio/tree/main/Project-2-E-Commerce%20Sales%20and%20Profit%20Analysis
+📁 [View Project](Project_2_E_Commerce_Sales_and_Profit_Analysis)
 
 ---
 
-## Project 03 — Insurance Risk & Claims Analysis
-
-📁 Folder: `Project_3_Insurance_Risk_Claims_Analysis`
+### Project 03 — Insurance Risk & Claims Analysis
 
 **Business Problem:** Analyze insurance claims behavior, customer risk exposure, and policy segmentation to support underwriting and operational decision-making.
 
@@ -99,14 +94,11 @@ https://github.com/shivee-code/Power-BI_projects_portfolio/tree/main/Project-2-E
 
 Power BI · Power Query · DAX · Risk Analytics · Data Modeling · Interactive Reporting
 
-🔗 Repository Link:  
-https://github.com/shivee-code/Power-BI_projects_portfolio/tree/main/Project_3_Insurance_Risk_Claims_Analysis
+📁 [View Project](Project_3_Insurance_Risk_Claims_Analysis)
 
 ---
 
-## Project 04 — Institutional Multi-Asset Quant Execution Terminal
-
-📁 Folder: `Institutional_MultiAsset_Quant_Execution_Terminal`
+### Project 04 — Institutional Multi-Asset Quant Execution Terminal
 
 **Business Problem:** Perform time-series market analysis, portfolio analytics, and systematic financial risk evaluation across large-scale financial datasets.
 
@@ -125,8 +117,7 @@ https://github.com/shivee-code/Power-BI_projects_portfolio/tree/main/Project_3_I
 
 Power BI · Python · Pandas · yFinance API · DAX · Power Query · Quantitative Analytics
 
-🔗 Repository Link:  
-https://github.com/shivee-code/Power-BI_projects_portfolio/tree/main/Institutional_MultiAsset_Quant_Execution_Terminal
+📁 [View Project](Project_04_Institutional_MultiAsset_Quant_Execution_Terminal)
 
 ---
 
