@@ -191,10 +191,10 @@ Aspiring Data Analyst & BI Developer focused on:
 # Connect With Me
 
 **LinkedIn:**  
-https://www.linkedin.com/in/shivam-kumar-2a0371246/
+[Shivam Kumar](https://www.linkedin.com/in/shivam-kumar-sql-data-analyst/)
 
 **GitHub:**  
-https://github.com/shivee-code
+[Shivee Code](https://github.com/shivee-code)
 
 ---
 
