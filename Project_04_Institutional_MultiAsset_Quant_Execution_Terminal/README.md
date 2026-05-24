@@ -67,7 +67,7 @@ Project_4_Institutional_MultiAsset_Quant_Execution_Terminal/
 ├── reports/
 │   └── Institutional_MultiAsset_Quant_Execution_Terminal.pbix   # Main Power BI analytical application engine
 │
-├── exports/				      # High-definition visual system screenshot layout
+├── exports/				                        # High-definition visual system screenshot layout
 │   ├── 1_Macro_Asset_Console.png            
 │   ├── 2_Risk_Deep_Dive_Engine.png
 │   ├── 3_Algorithmic_Alpha_Radar.png
