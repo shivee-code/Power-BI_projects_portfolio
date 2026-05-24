@@ -194,7 +194,14 @@ Aspiring Data Analyst & BI Developer focused on:
 [Shivam Kumar](https://www.linkedin.com/in/shivam-kumar-sql-data-analyst/)
 
 **GitHub:**  
-[Shivee Code](https://github.com/shivee-code)
+[shivee_code](https://github.com/shivee-code)
+
+**LeetCode:**  
+[shiveecode](https://github.com/shivee-code)
+
+**HackerRank:**  
+[Shivam Kumar(https://www.hackerrank.com/profile/kshivamar)
+
 
 ---
 
